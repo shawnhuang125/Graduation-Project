@@ -65,7 +65,8 @@
   - 瀏覽器登入`phpmyadmin`
   ```
   http://[your_vm_ip]/phpmyadmin
-  ``` 
+  ```
+  - 成功登入`phpmyadmin`
   - 1-2. 安裝 Python 及 Flask（作為 API 伺服器）
   ```
   
