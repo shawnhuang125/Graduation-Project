@@ -12,16 +12,60 @@
   sudo systemctl start mysql
 
   ```
-  - 設定 MySQL root 密碼
-  ```
-  sudo mysql_secure_installation
-  ```
   - 進入 MySQL 並建立資料庫：
   ```
   mysql -u root -p
   CREATE DATABASE csv_database;
   EXIT;
   ```
+  - 進入 MySQL 並建立`phpmyadmin`帳號：
+  ```
+  sudo mysql -u root -p
+  CREATE USER 'phpmyadmin'@'localhost' IDENTIFIED BY 'P@ssw0rd123!';
+  GRANT ALL PRIVILEGES ON phpmyadmin.* TO 'phpmyadmin'@'localhost' WITH GRANT OPTION;
+  FLUSH PRIVILEGES;
+  EXIT;
+  ```
+  - 設置使用者的完整權限
+  ```
+  GRANT ALL PRIVILEGES ON *.* TO 'phpmyadmin'@'localhost' IDENTIFIED BY '你的密碼' WITH GRANT OPTION;
+  FLUSH PRIVILEGES;
+  EXIT;
+  ```
+  - 重新安裝`phpmyadmin`,完整刪除檔案
+  ```
+  sudo apt remove --purge phpmyadmin -y
+  sudo rm -rf /etc/phpmyadmin
+  sudo rm -rf /var/lib/phpmyadmin
+  sudo rm -rf /usr/share/phpmyadmin
+  sudo apt autoremove -y
+  sudo apt autoclean
+  sudo apt update
+  sudo apt install phpmyadmin -y
+  ```
+  - 重新安裝`phpmyadmin`一樣勾選`apache2`,後續安裝會出現`「Configure database for phpmyadmin with dbconfig-common?」` 的選項：
+  - 請勾選:
+  ```
+  cancel
+  ```
+  - 進入`phpmyadmin`配置文件
+  ```
+  sudo nano /etc/dbconfig-common/phpmyadmin.conf
+  ```
+  - 如果檔案存在，請確保 dbc_dbuser 設定為 phpmyadmin，並設定你的密碼：
+  ```
+  dbc_dbuser='phpmyadmin'
+  dbc_dbpass='你的密碼'
+  ```  
+  - 儲存後，重啟 `Apache2`
+  ```
+  sudo systemctl restart apache2
+  ```
+  - 
+  - 瀏覽器登入`phpmyadmin`
+  ```
+  http://[your_vm_ip]/phpmyadmin
+  ``` 
   - 1-2. 安裝 Python 及 Flask（作為 API 伺服器）
   ```
   
