@@ -497,7 +497,7 @@ requests
 python-dotenv
 pandas
 ```
-- `.env`
+- `.env`,在這個檔案裏要放置你取得的api key
 ```
 GOOGLE_MAPS_API_KEY=""
 ```
