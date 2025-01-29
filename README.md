@@ -1,1 +1,1 @@
-# SQL-API-SERVER Deployment Guide
+# SQL-Api Server Deployment Guide
