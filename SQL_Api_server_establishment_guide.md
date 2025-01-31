@@ -32,18 +32,12 @@
   FLUSH PRIVILEGES;
   EXIT;
   ```
-  - 重新安裝`phpmyadmin`,完整刪除檔案
+  - 安裝`phpmyadmin`
   ```
-  sudo apt remove --purge phpmyadmin -y
-  sudo rm -rf /etc/phpmyadmin
-  sudo rm -rf /var/lib/phpmyadmin
-  sudo rm -rf /usr/share/phpmyadmin
-  sudo apt autoremove -y
-  sudo apt autoclean
   sudo apt update
   sudo apt install phpmyadmin -y
   ```
-  - 重新安裝`phpmyadmin`一樣勾選`apache2`,後續安裝會出現`「Configure database for phpmyadmin with dbconfig-common?」` 的選項：
+  - 安裝`phpmyadmin`一樣勾選`apache2`,後續安裝會出現`「Configure database for phpmyadmin with dbconfig-common?」` 的選項：
   - 請勾選:
   ```
   cancel
