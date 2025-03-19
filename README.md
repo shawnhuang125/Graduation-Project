@@ -34,6 +34,7 @@ SQL-API Server:API連線說明文件製作
 Google-Map-API Server:規劃架構與技術選型
 Google-Map-API Server:設計
 Google-Map-API Server 部屬
+Google-Map-API Server:API整合資料庫檔案傳送
 ChatGPT-API Server:規劃架構與技術選型
 ChatGPT-API Server:設計
 ChatGPT-API Server:部屬
