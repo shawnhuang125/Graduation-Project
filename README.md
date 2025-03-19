@@ -30,6 +30,7 @@ SQL Server:規劃架構與技術選型
 SQL Server:配置PHPmyadmin
 SQL Server:配置Mysql
 SQL Server:部屬
+SQL-API Server:配置
 SQL-API Server:API連線說明文件製作
 Google-Map-API Server:規劃架構與技術選型
 Google-Map-API Server:設計
