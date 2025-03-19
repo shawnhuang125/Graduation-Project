@@ -40,6 +40,7 @@ ChatGPT-API Server:規劃架構與技術選型
 ChatGPT-API Server:設計
 ChatGPT-API Server:部屬
 ChatGPT-API Server:API整合資料庫搜尋功能
+ChatGPT-API Server:API整合POST手機APP聊天結果
 手機APP:規劃架構與技術選型
 手機APP:設計
 手機APP:部屬
