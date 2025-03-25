@@ -104,7 +104,7 @@ FoodChatBOT-API Server:API整合POST手機APP聊天結果
 ### Google-Map-API Server:規劃架構與技術選型 | [說明文件下載連結]()
 ```
 功能:
-負責人:
+負責人:黃律嘉
 狀態:未完成
 預計完成時間:
 ```
@@ -112,14 +112,14 @@ FoodChatBOT-API Server:API整合POST手機APP聊天結果
 ### Google-Map-API Server:設計 | [說明文件下載連結]()
 ```
 功能:
-負責人:
+負責人:黃律嘉
 狀態:未完成
 預計完成時間:
 ```
 ### Google-Map-API Server 部屬 | [說明文件下載連結]()
 ```
 功能:
-負責人:
+負責人:黃律嘉
 狀態:未完成
 預計完成時間:
 ```
