@@ -36,11 +36,11 @@ Google-Map-API Server:規劃架構與技術選型
 Google-Map-API Server:設計
 Google-Map-API Server 部屬
 Google-Map-API Server:API整合資料庫檔案傳送
-ChatGPT-API Server:規劃架構與技術選型
-ChatGPT-API Server:設計
-ChatGPT-API Server:部屬
-ChatGPT-API Server:API整合資料庫搜尋功能
-ChatGPT-API Server:API整合POST手機APP聊天結果
+FoodChatBOT-API Server:規劃架構與技術選型
+FoodChatBOT-API Server:設計
+FoodChatBOT-API Server:部屬
+FoodChatBOT-API Server:API整合資料庫搜尋功能
+FoodChatBOT-API Server:API整合POST手機APP聊天結果
 手機APP:規劃架構與技術選型
 手機APP:設計
 手機APP:部屬
@@ -123,21 +123,21 @@ ChatGPT-API Server:API整合POST手機APP聊天結果
 狀態:未完成
 預計完成時間:
 ```
-### ChatGPT-API Server:規劃架構與技術選型 | [說明文件下載連結]()
+### FoodChatBOT-API Server:規劃架構與技術選型 | [說明文件下載連結]()
 ```
 功能:
 負責人:陳名輔
 狀態:未完成
 預計完成時間:
 ```
-### ChatGPT-API Server:設計 | [說明文件下載連結]()
+### FoodChatBOT-API Server:設計 | [說明文件下載連結]()
 ```
 功能:
 負責人:陳名輔
 狀態:未完成
 預計完成時間:
 ```
-### ChatGPT-API Server:部屬 | [說明文件下載連結]()
+### FoodChatBOT-API Server:部屬 | [說明文件下載連結]()
 ```
 功能:
 負責人:陳名輔
