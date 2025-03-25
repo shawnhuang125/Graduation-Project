@@ -182,14 +182,14 @@ FoodChatBOT-API Server:API整合POST手機APP聊天結果
 ### 口譯功能服務:規劃架構與技術選型 | [說明文件下載連結]()
 ```
 功能:
-負責人:
+負責人:王羿辰
 狀態:未完成
 預計完成時間:
 ```
 ### 口譯功能服務:設計  | [說明文件下載連結](https://docs.google.com/presentation/d/1SgvoiNP5a1w3FEKKdz6k3pUUXypjBPpW/edit?usp=sharing&ouid=108367324358752546044&rtpof=true&sd=true)
 ```
 功能:
-負責人:
+負責人:王羿辰
 狀態:未完成
 預計完成時間:
 ```
