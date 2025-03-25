@@ -50,6 +50,8 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 使用者測試:紀錄
 使用者測試:說明文件製作
 ```
+## 開會總攬
+- [20250325開會紀錄](https://1drv.ms/p/c/2246da9308bf8a0b/EY8s_3oZB7dFvPo1tj1f-BQBF-IP_tmFVuH6YqcgQ0rsUA?e=fmK296)
 ## **團隊組織與分工**
 ### **定義團隊角色**
 
