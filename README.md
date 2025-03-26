@@ -104,8 +104,8 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 ```
 功能:說明Map-API服務的技術選型與架構規劃
 負責人:黃律嘉
-狀態:未完成
-預計完成時間:
+狀態:已完成
+預計完成時間:20250326
 ```
 
 ### Google-Map-API Server:前後端設計 | [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
