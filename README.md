@@ -28,10 +28,10 @@ SQL Server:配置Mysql
 SQL Server:部屬
 SQL-API Server:配置
 SQL-API Server:API連線說明文件製作
-Google-Map-API Server:規劃架構與技術選型
-Google-Map-API Server:設計
-Google-Map-API Server 部屬
-Google-Map-API Server:API整合資料庫檔案傳送
+Map-API Service Server:規劃架構與技術選型
+Map-API Service Server:設計
+Map-API Service Server 部屬
+Map-API Service Server:API整合資料庫檔案傳送
 FoodChatot-API Server:規劃架構與技術選型
 FoodChatot-API Server:設計
 FoodChatot-API Server:部屬
@@ -100,7 +100,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 狀態:未完成
 預計完成時間:
 ```
-### Google-Map-API Server:規劃架構與技術選型 | [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
+### Map-API Service Server:規劃架構與技術選型 | [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
 ```
 功能:說明Map-API服務的技術選型與架構規劃
 負責人:黃律嘉
@@ -108,7 +108,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 預計完成時間:20250326
 ```
 
-### Google-Map-API Server:前後端設計 | [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
+### Map-API Service Server:前後端設計 | [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
 ```
 功能:說明Map-API服務的蒐集美食數據邏輯架構圖
 負責人:黃律嘉
@@ -116,7 +116,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 預計完成時間:20250325
 ```
 
-### Google-Map-API Server 部屬 | [說明文件下載連結]()
+### Map-API Service Server 部屬 | [說明文件下載連結]()
 ```
 功能:
 負責人:黃律嘉
