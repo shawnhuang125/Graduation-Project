@@ -127,7 +127,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 ```
 功能:
 負責人:陳名輔
-狀態:未完成
+狀態:已完成
 預計完成時間:
 ```
 ### FoodChatBot-API Server:設計 | [說明文件下載連結]()
