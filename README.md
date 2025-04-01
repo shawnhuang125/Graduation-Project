@@ -123,7 +123,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 狀態:未完成
 預計完成時間:
 ```
-### FoodChatBot-API Server:規劃架構與技術選型 | [說明文件下載連結]()
+### FoodChatBot-API Server:規劃架構與技術選型 | [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
 ```
 功能:
 負責人:陳名輔
