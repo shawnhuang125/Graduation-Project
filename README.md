@@ -118,7 +118,15 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 
 ### Map-API Service Server 部屬 | [說明文件下載連結]()
 ```
-功能:
+功能:將Map-API Service部屬到Server上並運行測試
+負責人:黃律嘉
+狀態:已完成
+預計完成時間:20250401
+```
+
+### Map-API Service Server API整合SQL Server | [說明文件下載連結]()
+```
+功能:將Map-API Service對接到SQL Server
 負責人:黃律嘉
 狀態:未完成
 預計完成時間:
