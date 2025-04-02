@@ -152,7 +152,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 狀態:未完成
 預計完成時間:
 ```
-### 手機APP:規劃架構與技術選型 | 
+### 手機APP:規劃架構與技術選型 | [說明文件下載連結](https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE)
 ```
 功能:
 負責人:林聖峰
