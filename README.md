@@ -191,8 +191,8 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 ```
 功能:語音功能端(技術選型-流程圖-操作說明)
 負責人:王羿辰
-狀態:未完成
-預計完成時間:
+狀態:暫(完成)
+預計完成時間:暫(完成)
 ```
 ### 口譯功能服務:設計  | [說明文件下載連結](https://docs.google.com/presentation/d/1SgvoiNP5a1w3FEKKdz6k3pUUXypjBPpW/edit?usp=sharing&ouid=108367324358752546044&rtpof=true&sd=true)
 ```
@@ -205,8 +205,8 @@ FoodChatot-API Server:API整合POST手機APP聊天結果
 ```
 功能:
 負責人:
-狀態:暫(完成)
-預計完成時間:暫(完成)
+狀態:
+預計完成時間:
 ```
 ### 口譯功能服務:API整合手機APP請求  | [說明文件下載連結]()
 ```
