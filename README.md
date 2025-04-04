@@ -30,8 +30,8 @@ SQL-API Server:配置
 SQL-API Server:API連線說明文件製作
 Map-API Service Server:規劃架構與技術選型(已完成)
 Map-API Service Server:設計(已完成)
-Map-API Service Server 部屬(已完成)
-Map-API Service Server:API整合資料庫檔案傳送(已完成)
+Map-API Service Server 部屬
+Map-API Service Server:API整合資料庫檔案傳送
 FoodChatot-API Server:規劃架構與技術選型(已完成)
 FoodChatot-API Server:設計(已完成)
 FoodChatot-API Server:部屬
