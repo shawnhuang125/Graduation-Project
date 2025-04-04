@@ -22,12 +22,12 @@
   - 圖書館討論室
 ## 進度總攬(截至20250326)
 ```
-SQL Server:規劃架構與技術選型(吳富民)
-SQL Server:配置PHPmyadmin(吳富民)
-SQL Server:配置Mysql(吳富民)
-SQL Server:部屬(吳富民)
-SQL-API Server:配置(吳富民)
-SQL-API Server:API連線說明文件製作(吳富民)
+SQL Server:規劃架構與技術選型(吳富民)(已完成)
+SQL Server:配置PHPmyadmin(吳富民)(已完成)
+SQL Server:配置Mysql(吳富民)(已完成)
+SQL Server:部屬(吳富民)(已完成)
+SQL-API Server:配置(吳富民)(已完成)
+SQL-API Server:API連線說明文件製作(吳富民)(已完成)
 Map-API Service Server:規劃架構與技術選型(黃律嘉)(已完成)
 Map-API Service Server:設計(黃律嘉)(已完成)
 Map-API Service Server 部屬(黃律嘉)
