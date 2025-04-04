@@ -31,7 +31,7 @@
 - **簡報負責人**：黃律嘉(專門負責對外展示與報告)
 
 ## 進度總攬(截至20250404)
-- SQL Server + Main Server(API)
+- **SQL Server + Main Server(API)**
     -  [說明文件下載連結1](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
     -  說明文件下載連結.....
 ```
@@ -42,7 +42,7 @@ SQL Server:部屬(吳富民)(已完成)
 SQL-API Server:配置(吳富民)(已完成)
 SQL-API Server:API連線說明文件製作(吳富民)(已完成)
 ```
-- Map-API Service Server
+- **Map-API Service Server**
     -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
     -  說明文件下載連結.....
 ```
@@ -51,7 +51,7 @@ Map-API Service Server:設計(黃律嘉)(已完成)
 Map-API Service Server 部屬(黃律嘉)
 Map-API Service Server:API整合資料庫檔案傳送(黃律嘉)
 ```
-- FoodChatBot-API Server
+- **FoodChatBot-API Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
     -  說明文件下載連結.....
 ```
@@ -61,7 +61,7 @@ FoodChatot-API Server:部屬(陳名輔)
 FoodChatot-API Server:API整合資料庫搜尋功能(陳名輔)
 FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
 ```
-- 手機APP
+- **手機APP**
     -  [說明文件下載連結](https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE)
     -  說明文件下載連結.....
 ```
@@ -71,7 +71,7 @@ FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
 手機APP:API整合ChatGPT-API Server
 手機APP:API整合口譯功能
 ```
-- 口譯功能服務
+- **口譯功能服務**
     - [說明文件下載連結](https://docs.google.com/presentation/d/1b-JDRvySwyjfmx6IcQbTskFVm9phBgWz/edit?usp=drive_link&ouid=108367324358752546044&rtpof=true&sd=true)
     - [說明文件下載連結](https://docs.google.com/presentation/d/1SgvoiNP5a1w3FEKKdz6k3pUUXypjBPpW/edit?usp=sharing&ouid=108367324358752546044&rtpof=true&sd=true)
     -  說明文件下載連結.....
