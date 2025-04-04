@@ -20,41 +20,9 @@
   - 原則上有上課的每個禮拜二下午1:30-2:30
 - **開會地點**:
   - 圖書館討論室
-## 進度總攬(截至20250326)
-```
-SQL Server:規劃架構與技術選型(吳富民)(已完成)
-SQL Server:配置PHPmyadmin(吳富民)(已完成)
-SQL Server:配置Mysql(吳富民)(已完成)
-SQL Server:部屬(吳富民)(已完成)
-SQL-API Server:配置(吳富民)(已完成)
-SQL-API Server:API連線說明文件製作(吳富民)(已完成)
-Map-API Service Server:規劃架構與技術選型(黃律嘉)(已完成)
-Map-API Service Server:設計(黃律嘉)(已完成)
-Map-API Service Server 部屬(黃律嘉)
-Map-API Service Server:API整合資料庫檔案傳送(黃律嘉)
-FoodChatot-API Server:規劃架構與技術選型(陳名輔)(已完成)
-FoodChatot-API Server:設計(陳名輔)
-FoodChatot-API Server:部屬(陳名輔)
-FoodChatot-API Server:API整合資料庫搜尋功能(陳名輔)
-FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
-手機APP:規劃架構與技術選型()(已完成)
-手機APP:設計(已完成)
-手機APP:部屬
-手機APP:API整合ChatGPT-API Server
-手機APP:API整合口譯功能
-口譯功能服務:規劃架構與技術選型(王羿辰)(已完成)
-口譯功能服務:設計(王羿辰)(已完成)
-口譯功能服務:部屬
-口譯功能服務:API整合手機APP請求
-使用者測試:操作
-使用者測試:紀錄
-使用者測試:說明文件製作
-```
-## 開會總攬
-- [20250325開會紀錄](https://1drv.ms/p/c/2246da9308bf8a0b/EY8s_3oZB7dFvPo1tj1f-BQBF-IP_tmFVuH6YqcgQ0rsUA?e=fmK296)
+  
 ## **團隊組織與分工**
-### **定義團隊角色**
-
+-  **定義團隊角色**
 - **專題負責人**：李冠榮老師
 - **專案管理**：黃律嘉
 - **技術負責人**（Tech Lead）：(全體組員)負責技術決策、(全體組員)架構設計
@@ -62,9 +30,73 @@ FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
 - **文檔與測試負責人**：(全體組員)撰寫報告、(全體組員)測試系統
 - **簡報負責人**：黃律嘉(專門負責對外展示與報告)
 
+## 進度總攬(截至20250404)
+- SQL Server + Main Server(API)
+    -  [說明文件下載連結1](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
+    -  說明文件下載連結.....
+```
+SQL Server:規劃架構與技術選型(吳富民)(已完成)
+SQL Server:配置PHPmyadmin(吳富民)(已完成)
+SQL Server:配置Mysql(吳富民)(已完成)
+SQL Server:部屬(吳富民)(已完成)
+SQL-API Server:配置(吳富民)(已完成)
+SQL-API Server:API連線說明文件製作(吳富民)(已完成)
+```
+- Map-API Service Server
+    -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
+    -  說明文件下載連結.....
+```
+Map-API Service Server:規劃架構與技術選型(黃律嘉)(已完成)
+Map-API Service Server:設計(黃律嘉)(已完成)
+Map-API Service Server 部屬(黃律嘉)
+Map-API Service Server:API整合資料庫檔案傳送(黃律嘉)
+```
+- FoodChatBot-API Server
+    -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
+    -  說明文件下載連結.....
+```
+FoodChatot-API Server:規劃架構與技術選型(陳名輔)(已完成)
+FoodChatot-API Server:設計(陳名輔)
+FoodChatot-API Server:部屬(陳名輔)
+FoodChatot-API Server:API整合資料庫搜尋功能(陳名輔)
+FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
+```
+- 手機APP
+    -  [說明文件下載連結](https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE)
+    -  說明文件下載連結.....
+```
+手機APP:規劃架構與技術選型()(已完成)
+手機APP:設計(已完成)
+手機APP:部屬
+手機APP:API整合ChatGPT-API Server
+手機APP:API整合口譯功能
+```
+- 口譯功能服務
+    - [說明文件下載連結](https://docs.google.com/presentation/d/1b-JDRvySwyjfmx6IcQbTskFVm9phBgWz/edit?usp=drive_link&ouid=108367324358752546044&rtpof=true&sd=true)
+    - [說明文件下載連結](https://docs.google.com/presentation/d/1SgvoiNP5a1w3FEKKdz6k3pUUXypjBPpW/edit?usp=sharing&ouid=108367324358752546044&rtpof=true&sd=true)
+    -  說明文件下載連結.....
+```
+口譯功能服務:規劃架構與技術選型(王羿辰)(已完成)
+口譯功能服務:設計(王羿辰)(已完成)
+口譯功能服務:部屬
+口譯功能服務:API整合手機APP請求
+```
+- 使用者測試
+    - 說明文件下載連結.....
+    - 說明文件下載連結.....
+```
+使用者測試:操作
+使用者測試:紀錄
+使用者測試:說明文件製作
+```
+## 開會總攬
+- [20250325開會紀錄](https://1drv.ms/p/c/2246da9308bf8a0b/EY8s_3oZB7dFvPo1tj1f-BQBF-IP_tmFVuH6YqcgQ0rsUA?e=fmK296)
+
+
+
   
 ## 職責劃分
-### SQL Server:規劃架構與技術選型 | [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
+### SQL Server:規劃架構與技術選型 | 
 ```
 功能:
 負責人:吳富民
