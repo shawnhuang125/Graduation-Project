@@ -22,7 +22,7 @@
   - 圖書館討論室
 ## 進度總攬(截至20250326)
 ```
-SQL Server:規劃架構與技術選型(吳富民)(已完成)
+SQL Server:規劃架構與技術選型(吳富民)
 SQL Server:配置PHPmyadmin(吳富民)
 SQL Server:配置Mysql(吳富民)
 SQL Server:部屬(吳富民)
@@ -33,7 +33,7 @@ Map-API Service Server:設計(黃律嘉)(已完成)
 Map-API Service Server 部屬(黃律嘉)
 Map-API Service Server:API整合資料庫檔案傳送(黃律嘉)
 FoodChatot-API Server:規劃架構與技術選型(陳名輔)(已完成)
-FoodChatot-API Server:設計(陳名輔)(已完成)
+FoodChatot-API Server:設計(陳名輔)
 FoodChatot-API Server:部屬(陳名輔)
 FoodChatot-API Server:API整合資料庫搜尋功能(陳名輔)
 FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
