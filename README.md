@@ -28,22 +28,22 @@ SQL Server:配置Mysql
 SQL Server:部屬
 SQL-API Server:配置
 SQL-API Server:API連線說明文件製作
-Map-API Service Server:規劃架構與技術選型
-Map-API Service Server:設計
-Map-API Service Server 部屬
-Map-API Service Server:API整合資料庫檔案傳送
-FoodChatot-API Server:規劃架構與技術選型
-FoodChatot-API Server:設計
+Map-API Service Server:規劃架構與技術選型(已完成)
+Map-API Service Server:設計(已完成)
+Map-API Service Server 部屬(已完成)
+Map-API Service Server:API整合資料庫檔案傳送(已完成)
+FoodChatot-API Server:規劃架構與技術選型(已完成)
+FoodChatot-API Server:設計(已完成)
 FoodChatot-API Server:部屬
 FoodChatot-API Server:API整合資料庫搜尋功能
 FoodChatot-API Server:API整合POST手機APP聊天結果
 手機APP:規劃架構與技術選型
-手機APP:設計
+手機APP:設計(已完成)
 手機APP:部屬
 手機APP:API整合ChatGPT-API Server
 手機APP:API整合口譯功能
-口譯功能服務:規劃架構與技術選型
-口譯功能服務:設計
+口譯功能服務:規劃架構與技術選型(已完成)
+口譯功能服務:設計(已完成)
 口譯功能服務:部屬
 口譯功能服務:API整合手機APP請求
 使用者測試:操作
