@@ -34,6 +34,7 @@
 - **SQL Server + Main Server(API)**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
     -  說明文件下載連結.....
+    -  說明文件下載連結.....
     ```
     SQL Server:規劃架構與技術選型(吳富民)(已完成)
     SQL Server:配置PHPmyadmin(吳富民)(已完成)
@@ -45,6 +46,7 @@
 - **Map-API Service Server**
     -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
     -  說明文件下載連結.....
+    -  說明文件下載連結.....
     ```
     Map-API Service Server:規劃架構與技術選型(黃律嘉)(已完成)
     Map-API Service Server:設計(黃律嘉)(已完成)
@@ -53,6 +55,7 @@
     ```
 - **FoodChatBot-API Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
+    -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
     FoodChatot-API Server:規劃架構與技術選型(陳名輔)(已完成)
@@ -63,6 +66,7 @@
     ```
 - **手機APP**
     -  [說明文件下載連結](https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE)
+    -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
     手機APP:規劃架構與技術選型()(已完成)
@@ -82,6 +86,7 @@
     口譯功能服務:API整合手機APP請求
     ```
 - 使用者測試
+    - 說明文件下載連結.....
     - 說明文件下載連結.....
     - 說明文件下載連結.....
     ```
