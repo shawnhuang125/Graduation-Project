@@ -40,40 +40,40 @@
     SQL Server:配置PHPmyadmin(吳富民)(已完成)
     SQL Server:配置Mysql(吳富民)(已完成)
     SQL Server:部屬(吳富民)(已完成)
-    SQL-API Server:配置(吳富民)(已完成)
-    SQL-API Server:API連線說明文件製作(吳富民)(已完成)
+    Main Server(API):配置(吳富民)(已完成)
+    Main Server(API):API連線說明文件製作(吳富民)(已完成)
     ```
-- **Map-API Service Server**
+- **Food-Data Service Server**
     -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
     -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
-    Map-API Service Server:規劃架構與技術選型(黃律嘉)(已完成)
-    Map-API Service Server:設計(黃律嘉)(已完成)
-    Map-API Service Server 部屬(黃律嘉)
-    Map-API Service Server:API整合資料庫檔案傳送(黃律嘉)
+    Food-Data Service Server:規劃架構與技術選型(黃律嘉)(已完成)
+    Food-Data Service Server:設計(黃律嘉)(已完成)
+    Food-Data Service Server 部屬(黃律嘉)
+    Food-Data Service Server:API整合資料庫檔案傳送(黃律嘉)
     ```
-- **FoodChatBot-API Server**
+- **FoodChatBot Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
     -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
-    FoodChatot-API Server:規劃架構與技術選型(陳名輔)(已完成)
-    FoodChatot-API Server:設計(陳名輔)
-    FoodChatot-API Server:部屬(陳名輔)
-    FoodChatot-API Server:API整合資料庫搜尋功能(陳名輔)
-    FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
+    FoodChatot Server:規劃架構與技術選型(陳名輔)(已完成)
+    FoodChatot Server:設計(陳名輔)
+    FoodChatot Server:部屬(陳名輔)
+    FoodChatot Server:API整合資料庫搜尋功能(陳名輔)
+    FoodChatot Server:API整合POST手機APP聊天結果(陳名輔)
     ```
 - **手機APP**
     -  [說明文件下載連結](https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE)
     -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
-    手機APP:規劃架構與技術選型()(已完成)
-    手機APP:設計(已完成)
-    手機APP:部屬
-    手機APP:API整合ChatGPT-API Server
-    手機APP:API整合口譯功能
+    手機APP:規劃架構與技術選型(林聖峰)(已完成)
+    手機APP:設計(林聖峰)(已完成)
+    手機APP:部屬(林聖峰)
+    手機APP:API整合ChatGPT-API Server(林聖峰)
+    手機APP:API整合口譯功能(林聖峰)
     ```
 - **口譯功能服務**
     - [說明文件下載連結](https://docs.google.com/presentation/d/1b-JDRvySwyjfmx6IcQbTskFVm9phBgWz/edit?usp=drive_link&ouid=108367324358752546044&rtpof=true&sd=true)
