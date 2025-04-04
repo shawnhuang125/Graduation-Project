@@ -32,7 +32,7 @@
 
 ## 進度總攬(截至20250404)
 - **SQL Server + Main Server(API)**
-    -  [說明文件下載連結1](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
+    -  [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
     -  說明文件下載連結.....
 ```
 SQL Server:規劃架構與技術選型(吳富民)(已完成)
