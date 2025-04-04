@@ -53,8 +53,8 @@
     ```
     Food-Data Service Server:規劃架構與技術選型(黃律嘉)(已完成)
     Food-Data Service Server:設計(黃律嘉)(已完成)
-    Food-Data Service Server 部屬(黃律嘉)
-    Food-Data Service Server:API整合資料庫檔案傳送(黃律嘉)
+    Food-Data Service Server 部屬(黃律嘉)(已完成)
+    Food-Data Service Server:API整合資料庫檔案傳送(黃律嘉)(已完成)
     ```
 - **FoodChatBot Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
