@@ -30,7 +30,8 @@
 - **文檔與測試負責人**：(全體組員)撰寫報告、(全體組員)測試系統
 - **簡報負責人**：(暫定)黃律嘉(專門負責對外展示與報告)
 ## 專案資料流規劃圖
-- ![圖片3](https://github.com/user-attachments/assets/681f93ea-3436-471d-a3ce-83af8097dc43)
+- ![ARCHITECTURE](https://github.com/user-attachments/assets/22a20f77-2b16-47df-84de-988e1069d095)
+
 
 ## 進度總攬(截至20250404)
 - **SQL Server + Main Server(API)**
