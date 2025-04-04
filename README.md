@@ -72,28 +72,28 @@ FoodChatot-API Server:API整合POST手機APP聊天結果(陳名輔)
 預計完成時間:
 ```
 
-### SQL Server:配置PHPmyadmin | [說明文件下載連結]()
+### SQL Server:配置PHPmyadmin | [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
 ```
 功能:
 負責人:吳富民
 狀態:未完成
 預計完成時間:
 ```
-### SQL Server:配置Mysql | [說明文件下載連結]()
+### SQL Server:配置Mysql | [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
 ```
 功能:
 負責人:吳富民
 狀態:未完成
 預計完成時間:
 ```
-### SQL Server:部屬 | [說明文件下載連結]()
+### SQL Server:部屬 | [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
 ```
 功能:
 負責人:吳富民
 狀態:未完成
 預計完成時間:
 ```
-### SQL-API Server:API連線說明文件製作 | [說明文件下載連結]()
+### SQL-API Server:API連線說明文件製作 | [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
 ```
 功能:
 負責人:吳富民
