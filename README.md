@@ -68,7 +68,7 @@
     FoodChatot Server:API整合POST手機APP聊天結果(陳名輔)
     ```
 - **手機APP**
-    -  [說明文件下載連結]([https://1drv.ms/p/c/3538e5ec697121cc/EQlTgx0sLGhHr6plhgueoBwBsNobEYfWvtQ1paSG8Owrpw?e=lCjbeE](https://1drv.ms/f/c/3538e5ec697121cc/EsJL1Ko_uCxOshPMCgd-IkYBMVwdePoDAk_nxbGDvxJiaw?e=vErtUx))
+    -  [說明文件下載連結](https://1drv.ms/f/c/3538e5ec697121cc/EsJL1Ko_uCxOshPMCgd-IkYBMVwdePoDAk_nxbGDvxJiaw?e=2zXGqx)
     -  說明文件下載連結.....
     -  說明文件下載連結.....
     ```
