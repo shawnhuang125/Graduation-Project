@@ -33,7 +33,7 @@
 - ![ARCHITECTURE](https://github.com/user-attachments/assets/22a20f77-2b16-47df-84de-988e1069d095)
 
 
-## 進度總攬(截至20250404)
+## 進度總攬(截至20250428)
 - **SQL Server + Main Server(API)**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
     -  說明文件下載連結.....
