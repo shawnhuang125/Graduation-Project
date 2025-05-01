@@ -31,7 +31,21 @@
 - **簡報負責人**：(暫定)黃律嘉(專門負責對外展示與報告)
 ## 專案資料流規劃圖
 - ![ARCHITECTURE](https://github.com/user-attachments/assets/22a20f77-2b16-47df-84de-988e1069d095)
+## 最新版database
+```
+import { createApp, h } from 'vue'
+import { createInertiaApp } from '@inertiajs/vue3'
+import { resolvePageComponent } from 'laravel-vite-plugin/inertia-helpers'
 
+createInertiaApp({
+  resolve: name => resolvePageComponent(`./Pages/${name}.vue`, import.meta.glob('./Pages/**/*.vue')),
+  setup({ el, App, props, plugin }) {
+    createApp({ render: () => h(App, props) })
+      .use(plugin)
+      .mount(el)
+  },
+})
+```
 
 ## 進度總攬(截至20250428)
 - **SQL Server + Main Server(API)**
