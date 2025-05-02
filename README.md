@@ -23,7 +23,6 @@
   
 ## **團隊組織與分工**
 -  **定義團隊角色**
-- **專題負責人**：李冠榮老師
 - **專案管理**：(暫定)黃律嘉
 - **技術負責人**（Tech Lead）：(全體組員)負責技術決策、(全體組員)架構設計
 - **開發者**：(全體組員)負責程式撰寫與實作
@@ -37,29 +36,30 @@
 ## 進度總攬(截至20250428)
 - **SQL Server + Main Server(API)**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/13eR6K0OvtLCKswd_teb7XAT-YY66nJXI/edit?usp=sharing&ouid=106887199356708617838&rtpof=true&sd=true)
-    -  說明文件下載連結.....
+    -  [Main Server(API)部署說明文件下載連結]()
     -  說明文件下載連結.....
     ```
     SQL Server:規劃架構與技術選型(吳富民)(已完成)
     SQL Server:配置PHPmyadmin(吳富民)(已完成)
     SQL Server:配置Mysql(吳富民)(已完成)
-    SQL Server:部屬(吳富民)(已完成)
+    SQL Server:部屬(吳富民)
     Main Server(API):配置(吳富民)(已完成)
     Main Server(API):API連線說明文件製作(吳富民)(已完成)
+    Main Server(API):部署
     ```
 - **Food-Data Service Server**
     -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
-    -  說明文件下載連結.....
+    -  [Food-Data Service Server部署說明文件下載連結]()
     -  說明文件下載連結.....
     ```
     Food-Data Service Server:規劃架構與技術選型(黃律嘉)(已完成)
     Food-Data Service Server:設計(黃律嘉)(已完成)
-    Food-Data Service Server 部屬(黃律嘉)(已完成)
+    Food-Data Service Server 部屬(黃律嘉)
     Food-Data Service Server:API整合資料庫檔案傳送(黃律嘉)(已完成)
     ```
 - **FoodChatBot Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
-    -  說明文件下載連結.....
+    -  [FoodChatBot Service Server部署說明文件下載連結]()
     -  說明文件下載連結.....
     ```
     FoodChatot Server:規劃架構與技術選型(陳名輔)(已完成)
@@ -70,7 +70,7 @@
     ```
 - **手機APP**
     -  [說明文件下載連結](https://1drv.ms/f/c/3538e5ec697121cc/EsJL1Ko_uCxOshPMCgd-IkYBMVwdePoDAk_nxbGDvxJiaw?e=2zXGqx)
-    -  說明文件下載連結.....
+    -  [API操作功能元件說明文件下載連結]()
     -  說明文件下載連結.....
     ```
     手機APP:規劃架構與技術選型(林聖峰)(已完成)
@@ -82,7 +82,7 @@
 - **口譯功能服務**
     - [說明文件下載連結](https://docs.google.com/presentation/d/1b-JDRvySwyjfmx6IcQbTskFVm9phBgWz/edit?usp=drive_link&ouid=108367324358752546044&rtpof=true&sd=true)
     - [說明文件下載連結](https://docs.google.com/presentation/d/1SgvoiNP5a1w3FEKKdz6k3pUUXypjBPpW/edit?usp=sharing&ouid=108367324358752546044&rtpof=true&sd=true)
-    -  說明文件下載連結.....
+    - [STT Service Server部署說明文件下載連結]()
     ```
     口譯功能服務:規劃架構與技術選型(王羿辰)(已完成)
     口譯功能服務:設計(王羿辰)(已完成)
