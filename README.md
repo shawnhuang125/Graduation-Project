@@ -102,6 +102,7 @@
     使用者測試:紀錄
     使用者測試:說明文件製作
     ```
+## 下載專區
+- [文章爬蟲程式git連結](https://github.com/shawnhuang125/pyscraper_selenium)
 ## 開會總攬
 - [20250325開會紀錄](https://1drv.ms/p/c/2246da9308bf8a0b/EY8s_3oZB7dFvPo1tj1f-BQBF-IP_tmFVuH6YqcgQ0rsUA?e=fmK296)
-
