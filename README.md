@@ -43,32 +43,31 @@
     SQL Server:配置PHPmyadmin(吳富民)(已完成)
     SQL Server:配置Mysql(吳富民)(已完成)
     SQL Server:部屬(吳富民)
-    Main Server(API):配置(吳富民)(已完成)
-    Main Server(API):API連線說明文件製作(吳富民)(已完成)
+    Main Server(API):API開發測試(吳富民)
+    Main Server(API):API連線說明文件製作(吳富民)
     Main Server(API):部署說明文件(吳富民)
     ```
-- **Food-Data Service Server**
+- **Map-API Service**
     -  [說明文件下載連結](https://1drv.ms/p/c/2246da9308bf8a0b/ET37_BkFFsRLsb-BHIPy7QQB9ZdrLuaBUBnml9bjtL-oQw?e=i4WvHO)
     -  [Food-Data Service Server部署說明文件下載連結]()
     -  說明文件下載連結.....
     ```
-    Food-Data Service Server:規劃架構與技術選型(黃律嘉)(已完成)
-    Food-Data Service Server:設計(黃律嘉)(已完成)
-    Food-Data Service Server 部屬(黃律嘉)
-    Food-Data Service Server:API整合資料庫檔案傳送(黃律嘉)(已完成)
-    Food-Data Service Server:Food-Data Service Server部署說明文件(黃律嘉)
+    Map-API Service:規劃架構與技術選型(黃律嘉)(已完成)
+    Map-API Service:設計(黃律嘉)(已完成)
+    Map-API Service:部屬(黃律嘉)
+    Map-API Service:API整合資料庫檔案傳送(黃律嘉)(已完成)
+    Map-API Service:Food-Data Service Server部署說明文件(黃律嘉)
     ```
 - **FoodChatBot Server**
     -  [說明文件下載連結](https://docs.google.com/presentation/d/1tlU4ICzwZ8mPA4F13kG6lmIv51HImycuguh58RysZjw/edit?usp=sharing)
     -  [FoodChatBot Service Server部署說明文件下載連結]()
     -  說明文件下載連結.....
     ```
-    FoodChatot Server:規劃架構與技術選型(陳名輔)(已完成)
-    FoodChatot Server:設計(陳名輔)
-    FoodChatot Server:部屬(陳名輔)
-    FoodChatot Server:API整合資料庫搜尋功能(陳名輔)
-    FoodChatot Server:API整合POST手機APP聊天結果(陳名輔)
-    FoodChatot ServerFoodChatBot Service Server部署說明文件(陳名輔)
+    FoodChatot Service:規劃架構與技術選型(陳名輔)(已完成)
+    FoodChatot Service:設計(陳名輔)
+    FoodChatot Service:API整合開發測試(陳名輔)
+    FoodChatot Service:部屬(陳名輔)
+    FoodChatot Service:FoodChatBot Service部署說明文件(陳名輔)
     ```
 - **手機APP**
     -  [說明文件下載連結](https://1drv.ms/f/c/3538e5ec697121cc/EsJL1Ko_uCxOshPMCgd-IkYBMVwdePoDAk_nxbGDvxJiaw?e=2zXGqx)
@@ -78,7 +77,7 @@
     手機APP:規劃架構與技術選型(林聖峰)(已完成)
     手機APP:設計(林聖峰)(已完成)
     手機APP:部屬(林聖峰)
-    手機APP:API整合ChatGPT-API Server(林聖峰)
+    手機APP:API整合開發測試(林聖峰)
     手機APP:整合口譯功能(林聖峰)
     手機APP:API操作元件說明文件(林聖峰)
     ```
@@ -89,9 +88,9 @@
     ```
     口譯功能服務:規劃架構與技術選型(王羿辰)(已完成)
     口譯功能服務:設計(王羿辰)(已完成)
+    口譯功能服務:API整合開發測試(王羿辰)
     口譯功能服務:部屬(王羿辰)
-    口譯功能服務:API整合手機APP請求(王羿辰)
-    口譯功能服務:STT Service Server部署說明文件完成
+    口譯功能服務:STT Service Server部署說明文件完成(王羿辰)
     ```
 - 使用者測試
     - 說明文件下載連結.....
