@@ -23,7 +23,7 @@
 | 後端負責人 (FoodChatBot) | FoodChatBot 功能設計與實作、FoodChatBot 專屬模組開發、API 對接與整合、聊天功能驗證 | FoodChatBot 專責權限 |
 | 後端負責人 (STT) | 語音功能服務 (STT) 設計與實作、STT 模組整合與優化、API 對接 STT、語音轉文字服務驗證與測試 | STT 專責權限 |
 | 後端負責人 (Map API) | Map API 調用與整合、資料查詢與篩選功能設計、API 對接與資料展示、使用者地理定位功能優化 | Map API 專責權限 |
-| 文件負責人 | 專題簡報製作、專案報告文件撰寫、系統架構圖與流程圖繪製、需求文件與技術文檔編寫、期末成果報告整理 | 文件專責權限 |
+| 文件負責人 | 專題簡報製作、專案報告文件撰寫、系統架構圖與流程圖繪製、需求文件與技術文檔編寫、成果報告整理 | 文件專責權限 |
 | 測試負責人 | 系統功能測試、API 測試、版本驗收、Bug 回報、測試案例撰寫、協助調試並提出改進建議 | 測試專責權限 |
 
 ## 三、PDCA 持續改進循環
@@ -103,7 +103,8 @@
 原則為：只看事實，不看人情。決議結果必須公開透明。
 
 ## 八.專案資料流規劃圖
-- ![ARCHITECTURE](https://github.com/user-attachments/assets/22a20f77-2b16-47df-84de-988e1069d095)
+- ![美食機器人架構圖v2 0](https://github.com/user-attachments/assets/b35151f5-3685-4233-ba9e-e141861fbc5e)
+
 ## 最新版database
 - [下載連結](https://1drv.ms/u/c/2246da9308bf8a0b/EYr1AdYlxGJHtgkyPYOJpTMBgO_IT5jbMH9XH_GsDwhDCQ?e=xXhBeZ)
 
@@ -153,7 +154,6 @@
     手機APP:部屬(林聖峰)
     手機APP:API整合開發測試(林聖峰)
     手機APP:整合口譯功能(林聖峰)
-    手機APP:API操作元件說明文件(林聖峰)
     ```
 - **口譯功能服務**
     - [說明文件下載連結](https://docs.google.com/presentation/d/1b-JDRvySwyjfmx6IcQbTskFVm9phBgWz/edit?usp=drive_link&ouid=108367324358752546044&rtpof=true&sd=true)
@@ -166,7 +166,18 @@
     口譯功能服務:部屬(王羿辰)
     口譯功能服務:STT Service Server部署說明文件完成(王羿辰)
     ```
-- 使用者測試
+- **文件製作**
+    - [說明文件下載連結]()
+    - [說明文件下載連結]()
+    - [說明文件下載連結]()
+    ```
+    專題簡報整合
+    專案報告文件撰寫
+    系統架構圖與流程圖繪製
+    需求文件與技術文檔編寫
+    成果報告整理
+    ```
+- **使用者測試**
     - 說明文件下載連結.....
     - 說明文件下載連結.....
     - 說明文件下載連結.....
@@ -174,6 +185,12 @@
     使用者測試:操作
     使用者測試:紀錄
     使用者測試:說明文件製作
+    使用者測試:系統功能測試
+    使用者測試:API 測試
+    使用者測試:版本驗收
+    使用者測試:Bug 回報
+    使用者測試:測試案例撰寫
+    使用者測試:協助調試並提出改進建議
     ```
 ## 下載專區
 - [文章爬蟲程式git連結](https://github.com/shawnhuang125/pyscraper_selenium)
